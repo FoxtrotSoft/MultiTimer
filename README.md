@@ -21,3 +21,4 @@ dima.foxtrot.soft@gmail.com
 © Foxtrot Soft. 2025
 
 ⚠️ Работает только в оконном режиме. В полноэкранном режиме игр панель может не отображаться — это ограничение Windows, а не программы. Для игр — ставь режим «окно без рамки».
+<img width="754" height="789" alt="screen" src="https://github.com/user-attachments/assets/e55eec48-166b-4b45-bb60-d8e651bfbb35" />
